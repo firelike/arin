@@ -1,4 +1,4 @@
 Arin
 ====
 
-Arin client
+Wrapper for the Arin API.
