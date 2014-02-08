@@ -18,6 +18,4 @@ class AcctByte_Arin_Response_Item
             'MerchantId' => $this->getMerchantId() 
         );
     }
-
-
 }
