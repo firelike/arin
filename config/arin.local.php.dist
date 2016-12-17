@@ -1,0 +1,6 @@
+<?php
+return [
+    'arin_service' => [
+        'service_url' => 'http://whois.arin.net/rest',
+    ]
+];
